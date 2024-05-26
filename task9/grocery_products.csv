@@ -1,0 +1,205 @@
+Product Name,Color,Cost,Quantity,Shape,Size
+Red Chillies Powder,Red,50,100,Powder,Small
+Turmeric Powder,Yellow,40,150,Powder,Small
+Wheat Flour,Brown,30,200,Powder,Medium
+Sugar,White,20,300,Grain,Medium
+Green Peas,Green,25,250,Whole,Small
+Olive Oil,Green,100,50,Liquid,Large
+Tomato Ketchup,Red,60,150,Liquid,Medium
+Brown Rice,Brown,80,180,Grain,Large
+Apple,Red,30,80,Whole,Medium
+Orange Juice,Orange,50,100,Liquid,Medium
+Carrot,Orange,20,90,Whole,Medium
+Milk,White,40,200,Liquid,Large
+Butter,Yellow,70,60,Solid,Small
+Cheese,Yellow,80,70,Solid,Medium
+Broccoli,Green,40,110,Whole,Medium
+Onion,White,10,300,Whole,Small
+Garlic,White,15,250,Whole,Small
+Chicken Breast,White,150,100,Solid,Large
+Ginger,Brown,30,100,Whole,Small
+Lemon,Yellow,20,200,Whole,Small
+Banana,Yellow,10,300,Whole,Medium
+Cucumber,Green,15,250,Whole,Medium
+Bell Pepper,Red,25,200,Whole,Medium
+Potato,Brown,10,300,Whole,Medium
+Tomato,Red,15,250,Whole,Small
+Mango,Orange,50,100,Whole,Medium
+Papaya,Orange,60,80,Whole,Large
+Strawberry,Red,30,120,Whole,Small
+Blueberry,Blue,40,150,Whole,Small
+Almonds,Brown,100,60,Grain,Small
+Cashews,White,120,50,Grain,Small
+Walnuts,Brown,150,40,Grain,Small
+Peanut Butter,Brown,80,70,Solid,Medium
+Honey,Brown,60,100,Liquid,Medium
+Maple Syrup,Brown,70,90,Liquid,Medium
+Coconut Oil,White,90,60,Liquid,Large
+Sunflower Oil,Yellow,80,70,Liquid,Large
+Soy Milk,White,40,200,Liquid,Large
+Almond Milk,White,50,150,Liquid,Large
+Tofu,White,30,100,Solid,Medium
+Chia Seeds,Black,100,60,Grain,Small
+Quinoa,White,70,90,Grain,Small
+Couscous,Yellow,50,100,Grain,Small
+Oats,White,40,150,Grain,Medium
+Cornflakes,Yellow,30,200,Grain,Medium
+Pasta,Yellow,50,100,Solid,Medium
+Noodles,Yellow,40,150,Solid,Medium
+Spaghetti,Yellow,50,100,Solid,Medium
+Bread,Brown,20,200,Solid,Medium
+Bagel,Brown,25,150,Solid,Small
+Croissant,Brown,30,120,Solid,Small
+Muffin,Brown,40,100,Solid,Small
+Chocolate Bar,Brown,50,100,Solid,Small
+Ice Cream,White,60,80,Solid,Medium
+Product 4,Brown,56,147,Liquid,Medium
+Product 5,White,38,262,Liquid,Small
+Product 6,Orange,42,304,Powder,Medium
+Product 7,Orange,94,369,Solid,Medium
+Product 8,Brown,58,61,Powder,Medium
+Product 9,Orange,62,228,Solid,Small
+Product 10,Orange,88,266,Solid,Small
+Product 11,Yellow,78,347,Liquid,Small
+Product 12,Orange,26,53,Grain,Medium
+Product 13,Orange,40,353,Liquid,Small
+Product 14,White,97,72,Liquid,Medium
+Product 15,Green,92,496,Whole,Small
+Product 16,White,95,370,Whole,Small
+Product 17,Yellow,57,387,Liquid,Large
+Product 18,Yellow,51,444,Powder,Medium
+Product 19,Red,38,141,Solid,Large
+Product 20,Yellow,88,292,Whole,Small
+Product 21,Red,96,283,Powder,Small
+Product 22,Red,51,282,Solid,Small
+Product 23,Brown,83,90,Liquid,Medium
+Product 24,White,75,186,Grain,Small
+Product 25,Yellow,10,387,Whole,Medium
+Product 26,Orange,82,104,Grain,Large
+Product 27,Yellow,90,257,Whole,Medium
+Product 28,Brown,78,170,Solid,Large
+Product 29,Red,75,491,Grain,Medium
+Product 30,Yellow,22,500,Solid,Medium
+Product 31,Orange,40,113,Liquid,Medium
+Product 32,White,16,243,Liquid,Medium
+Product 33,Red,68,118,Whole,Small
+Product 34,Red,54,179,Powder,Small
+Product 35,Green,71,51,Grain,Large
+Product 36,Yellow,70,365,Solid,Large
+Product 37,Orange,92,165,Grain,Small
+Product 38,White,82,396,Grain,Small
+Product 39,White,55,309,Solid,Small
+Product 40,Green,99,462,Grain,Large
+Product 41,Brown,30,339,Grain,Large
+Product 42,White,10,243,Whole,Medium
+Product 43,Green,42,299,Liquid,Small
+Product 44,Yellow,54,117,Solid,Large
+Product 45,Brown,50,497,Whole,Large
+Product 46,Green,55,393,Liquid,Medium
+Product 47,Green,31,169,Whole,Medium
+Product 48,Brown,61,272,Liquid,Small
+Product 49,Red,63,471,Grain,Small
+Product 50,Green,81,233,Grain,Large
+Product 51,Yellow,72,254,Grain,Medium
+Product 52,Green,91,494,Powder,Medium
+Product 53,Brown,69,416,Liquid,Small
+Product 4,Yellow,49,286,Solid,Large
+Product 5,Brown,48,341,Liquid,Small
+Product 6,White,46,104,Powder,Medium
+Product 7,Orange,85,381,Liquid,Large
+Product 8,White,82,444,Liquid,Large
+Product 9,Red,56,114,Powder,Small
+Product 10,Yellow,91,119,Powder,Medium
+Product 11,Yellow,36,111,Whole,Medium
+Product 12,Red,91,260,Whole,Medium
+Product 13,Green,20,276,Grain,Medium
+Product 14,Brown,65,445,Powder,Medium
+Product 15,Yellow,85,295,Liquid,Medium
+Product 16,Brown,21,409,Grain,Small
+Product 17,White,76,57,Whole,Large
+Product 18,Red,51,214,Whole,Large
+Product 19,White,31,335,Powder,Small
+Product 20,Yellow,74,416,Whole,Large
+Product 21,Green,27,494,Grain,Medium
+Product 22,Green,33,62,Powder,Medium
+Product 23,Green,70,493,Powder,Medium
+Product 24,White,64,267,Grain,Large
+Product 25,Yellow,22,78,Grain,Medium
+Product 26,Orange,26,320,Solid,Medium
+Product 27,Green,35,348,Solid,Large
+Product 28,Green,21,450,Solid,Large
+Product 29,Orange,69,472,Grain,Large
+Product 30,White,60,409,Grain,Small
+Product 31,Yellow,58,300,Grain,Small
+Product 32,Red,61,408,Liquid,Medium
+Product 33,White,12,59,Liquid,Large
+Product 34,Orange,33,92,Liquid,Small
+Product 35,White,36,466,Liquid,Medium
+Product 36,Brown,63,497,Liquid,Large
+Product 37,Brown,74,497,Whole,Medium
+Product 38,Brown,93,296,Liquid,Small
+Product 39,White,25,114,Grain,Small
+Product 40,Yellow,32,451,Powder,Large
+Product 41,Orange,50,160,Liquid,Medium
+Product 42,Yellow,62,98,Powder,Large
+Product 43,Red,50,203,Whole,Medium
+Product 44,White,59,453,Whole,Large
+Product 45,Orange,27,487,Liquid,Large
+Product 46,White,12,61,Powder,Medium
+Product 47,Red,31,475,Whole,Medium
+Product 48,Yellow,56,299,Liquid,Medium
+Product 49,Red,55,345,Liquid,Medium
+Product 50,Red,29,79,Liquid,Large
+Product 51,White,59,229,Grain,Medium
+Product 52,Red,56,137,Whole,Small
+Product 53,Green,66,143,Whole,Large
+Product 4,Yellow,63,311,Liquid,Large
+Product 5,Orange,35,240,Whole,Small
+Product 6,Green,80,269,Grain,Large
+Product 7,Green,36,313,Liquid,Large
+Product 8,Green,79,294,Grain,Medium
+Product 9,Green,27,202,Grain,Small
+Product 10,Red,76,323,Powder,Small
+Product 11,Green,97,462,Powder,Medium
+Product 12,Green,94,221,Solid,Large
+Product 13,Red,29,443,Grain,Small
+Product 14,Green,28,169,Grain,Large
+Product 15,Red,29,114,Solid,Medium
+Product 16,Green,15,410,Liquid,Large
+Product 17,Yellow,98,461,Liquid,Large
+Product 18,Brown,84,366,Powder,Medium
+Product 19,White,17,466,Grain,Medium
+Product 20,Brown,90,64,Grain,Medium
+Product 21,Orange,56,383,Liquid,Large
+Product 22,Brown,22,196,Whole,Small
+Product 23,White,61,271,Powder,Large
+Product 24,Yellow,51,57,Grain,Small
+Product 25,Red,29,98,Liquid,Medium
+Product 26,Brown,92,385,Solid,Medium
+Product 27,Brown,97,492,Solid,Small
+Product 28,Brown,58,139,Solid,Medium
+Product 29,White,75,95,Liquid,Small
+Product 30,Yellow,84,297,Whole,Large
+Product 31,Green,68,151,Liquid,Medium
+Product 32,Yellow,72,437,Whole,Small
+Product 33,Orange,63,183,Whole,Medium
+Product 34,Brown,66,196,Liquid,Small
+Product 35,Green,70,499,Grain,Medium
+Product 36,Yellow,51,346,Whole,Large
+Product 37,Red,19,213,Powder,Medium
+Product 38,Yellow,43,385,Grain,Large
+Product 39,Red,77,171,Liquid,Small
+Product 40,Yellow,48,453,Whole,Small
+Product 41,Brown,82,147,Whole,Medium
+Product 42,Green,77,60,Powder,Medium
+Product 43,White,48,284,Powder,Small
+Product 44,Orange,80,176,Whole,Large
+Product 45,Yellow,61,200,Grain,Small
+Product 46,Green,67,448,Whole,Large
+Product 47,White,96,293,Grain,Large
+Product 48,Red,38,99,Liquid,Small
+Product 49,Green,82,163,Solid,Medium
+Product 50,Green,78,301,Powder,Small
+Product 51,White,36,453,Solid,Small
+Product 52,Green,86,336,Powder,Large
+Product 53,Brown,11,240,Liquid,Large
